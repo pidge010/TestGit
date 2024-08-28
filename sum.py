@@ -1,3 +1,3 @@
-x = 5
-y = 10
+x = 5            # first variable
+y = 10           # second variable
 print(x + y)
